@@ -8,10 +8,10 @@ html, body {
 	color: #222;
 }
 
-.row div {
+/* .row div {
 	
 	border:1px solid;
-}
+}  */
 
 .navbar {
 	background-color: rgba(82,64,120,0.9) !important; /* important nen duoc set de len nhung cai khac */
